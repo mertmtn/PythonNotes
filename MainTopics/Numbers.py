@@ -1,6 +1,6 @@
 print(5+6)
 
-print(2**3)
+print(2**3) #It means 2*2*2=8
 
 print(120/7)
 

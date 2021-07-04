@@ -24,12 +24,13 @@ print("Hello",end="\n")
 # it willprint new line after printing "World"
 print("World")
 
-# it will print new line 
+# it will print new line
 print()
 
 # it will not print new line after printing "Hello"
 # it will print space " "
 print("Hello",end=" ")
+
 # it will print new line after printing "World"
 print("World")
 
